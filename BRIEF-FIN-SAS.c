@@ -45,7 +45,6 @@ void Ajouter(){
 }
 
 int main() {
-	int main() {
 	
     int choix;
     
@@ -90,8 +89,6 @@ int main() {
         }
     } while (choix != 0);
 
-    return 0;
-}
 	
  
     return 0;
